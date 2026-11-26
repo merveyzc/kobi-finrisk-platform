@@ -1,0 +1,24 @@
+[
+  {
+    "invoice_no": "FTR2026000142",
+    "counterparty": "Anadolu Lojistik A.S.",
+    "issue_date": "2026-11-10",
+    "due_date": "2026-12-10",
+    "amount": 124500.75,
+    "currency": "TRY",
+    "parse_status": "ok",
+    "validation_note": null,
+    "source_file": "anadolu_lojistik_kasim.pdf"
+  },
+  {
+    "invoice_no": "FTR2026000143",
+    "counterparty": "Marmara Tedarik Ltd.",
+    "issue_date": "2026-11-20",
+    "due_date": "2026-11-15",
+    "amount": null,
+    "currency": "TRY",
+    "parse_status": "needs_review",
+    "validation_note": "due_date_before_issue_date; missing_amount",
+    "source_file": "marmara_tedarik_taslak.xlsx"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "source": "TCMB_EVDS",
+    "bank_name": "TCMB",
+    "rate_type": "policy_rate",
+    "term_days": 7,
+    "annual_rate": 45.0,
+    "currency": "TRY",
+    "captured_at": "2026-11-26"
+  },
+  {
+    "source": "bank_rates_scraper",
+    "bank_name": "Ornek Banka A.S.",
+    "rate_type": "sme_loan",
+    "term_days": 360,
+    "annual_rate": 52.4,
+    "currency": "TRY",
+    "captured_at": "2026-11-26"
+  }
+]
