@@ -1,0 +1,16 @@
+[
+  {
+    "source": "TCMB_TODAY_XML",
+    "currency_pair": "USD/TRY",
+    "buying_rate": 34.5210,
+    "selling_rate": 34.5832,
+    "captured_at": "2026-11-26"
+  },
+  {
+    "source": "TCMB_TODAY_XML",
+    "currency_pair": "EUR/TRY",
+    "buying_rate": 36.2450,
+    "selling_rate": 36.3105,
+    "captured_at": "2026-11-26"
+  }
+]
